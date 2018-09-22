@@ -1,11 +1,16 @@
 _repo: Die-Christliche-Taufe-im-Lichte-der-hl-Schrift-und-der-Geschichte-von-der-Zeit-ihrer-Entstehu__55547
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55547-h/images/cover.jpg
 creator:
   author:
     agent_name: Seefried, J.
     gutenberg_agent_id: '48394'
     url: http://www.gutenberg.org/2009/agents/48394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55547#Die-Christliche-Taufe-im-Lichte-der-hl-Schrift-und-der-Geschichte-von-der-Zeit-ihrer-Entstehu_
 gutenberg_issued: '2017-09-14'
 gutenberg_type: Text
 identifiers:
